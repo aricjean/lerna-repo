@@ -1,5 +1,5 @@
 {
-  "name": "test4",
+  "name": "aricjea-test4",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "cf51daee4e19473ead22ce05ffb53a067611a30c"
 }
