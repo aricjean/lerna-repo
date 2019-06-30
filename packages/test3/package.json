@@ -1,5 +1,5 @@
 {
-  "name": "test2",
+  "name": "test3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "test1": "^1.0.0"
-  },
-  "gitHead": "e53652fe04389af194011909b98a5f2016b002ee"
+  "license": "ISC"
 }
